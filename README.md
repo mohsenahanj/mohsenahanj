@@ -1,56 +1,49 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=200&section=header&text=Mohsen%20Ahanj&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Founder%20%40%20RythmeVie&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+RythmeVie+%7C+Vimos;Simplifying+French+administration+with+AI;Flutter+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+React;Based+in+Rennes%2C+France" alt="Typing animation" />
+  <img src="./assets/header.svg" width="100%" alt="Mohsen Ahanj header"/>
 </div>
 
-<br/>
-
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+RythmeVie+%7C+Vimos;Simplifying+French+administration+with+AI;Flutter+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+React;Open+to+interesting+projects" alt="Typing" />
+</div>
+
+<p align="center">
   <a href="https://vimos.fr"><img src="https://img.shields.io/badge/Vimos-RythmeVie-2f81f7?style=for-the-badge&logo=rocket&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mohsen-ahanj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/mohsenaj"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://instagram.com/mohsen.ahanj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:info@mohsenahanj.ir"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
+  <img src="https://komarev.com/ghpvc/?username=mohsenahanj&style=for-the-badge&color=2f81f7&label=PROFILE+VIEWS"/>
+</p>
 
----
-
-### 👋 About me
-
-I'm a full-stack developer and entrepreneur based in **Rennes, France**.
-I'm building **RythmeVie / Vimos**, a platform that helps people navigate French administrative processes, supported by **Le Poool** (La French Tech Rennes Saint-Malo).
-
-- 🔭 Currently working on **Vimos**: FastAPI backend + React/TypeScript console
-- 🌱 Interested in AI assistants, document automation and multilingual products
-- 💼 I also build websites, web apps and mobile apps for businesses
-- 🌐 Portfolio: [rubenstudio.ir](https://rubenstudio.ir)
-
----
-
-### 🛠️ Tech stack
+<img src="./assets/divider.svg" width="100%"/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flutter,dart,react,ts,js,php,html,css,postgres,docker,linux,git,github&perline=8" />
+  <img src="./assets/terminal.svg" width="85%" alt="Terminal"/>
 </div>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
-### 📊 GitHub stats
+## 🧰 Tech Stack
+
+<img src="./assets/skills.svg" width="100%" alt="Skills"/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## 📊 Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohsenahanj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenahanj&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohsenahanj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenahanj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <br/>
+  <img height="170" src="https://streak-stats.demolab.com?user=mohsenahanj&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohsenahanj&theme=tokyonight&hide_border=true" height="170" />
-</div>
+## 🏙️ 3D Contribution Graph
 
----
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contributions"/>
 
-### 🐍 Contribution snake
+## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/mohsenahanj/mohsenahanj/output/snake.svg" width="100%" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/mohsenahanj/mohsenahanj/output/snake-dark.svg" width="100%" alt="Snake"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:0d1117&height=110&section=footer" width="100%"/>
